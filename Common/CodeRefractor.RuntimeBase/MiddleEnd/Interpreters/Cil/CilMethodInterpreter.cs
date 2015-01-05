@@ -6,7 +6,6 @@ using CodeRefractor.ClosureCompute;
 using CodeRefractor.FrontEnd;
 using CodeRefractor.FrontEnd.SimpleOperations.Methods;
 using CodeRefractor.MiddleEnd.SimpleOperations;
-using CodeRefractor.MiddleEnd.SimpleOperations.Methods;
 using CodeRefractor.RuntimeBase;
 
 namespace CodeRefractor.MiddleEnd.Interpreters.Cil
